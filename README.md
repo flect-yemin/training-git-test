@@ -1,1 +1,1 @@
-"# training-git-test" 
+# training-git-test
